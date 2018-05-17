@@ -1,4 +1,4 @@
-# Uniwoman Posters
+# Uniwoman Mindfulness Posters
 
 This repository will contain posters with intructions for mindfulness practices for couples.
 
